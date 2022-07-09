@@ -1,1 +1,2 @@
 this is v1 of file f2
+add some extra text
